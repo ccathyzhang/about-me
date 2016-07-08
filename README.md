@@ -1,4 +1,4 @@
-# about-me
+# About Cathy
 <!DOCTYPE html>
 <html>
 	<head>
